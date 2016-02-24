@@ -1,6 +1,9 @@
 # Spider-Robot Mayaproject
 This Maya project shows a self made maya spider robot walking and fighting with other spider robots.
 
+![Spider Robot](./SpiderRobot.png)
+
+
 ## Used software
 * Maya Autodesk 2016
 * After Effects CS6
